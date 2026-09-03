@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - rescue/client-handoff-2026-09-01
+      - chatgpt/final-client-handover-2026-09-02
   pull_request:
 
 permissions:
