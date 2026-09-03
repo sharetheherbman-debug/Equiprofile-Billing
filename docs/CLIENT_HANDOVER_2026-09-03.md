@@ -43,4 +43,3 @@ Do not deploy from this task. After branch/CI review: verify or create the dedic
 `billing.equiprofile.online` DNS is outside source control. Until independently verified, record **BLOCKED — EXTERNAL DNS** and do not claim the Billing service is live. No DNS change was made here.
 
 Do not casually add billing pages back to Core, merge Management and Academy entitlement rows, accept browser-selected price IDs, weaken organisation binding, erase complimentary/admin overlays, or make webhook processing non-idempotent.
-
